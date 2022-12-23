@@ -1,0 +1,41 @@
+#loginPage {
+    background-image: url('../images/logo.jpg');
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 80%;
+
+}
+
+.allPageList {
+    background-image: radial-gradient(white, darkkhaki);
+    height: 100vh;
+}
+
+.allPage {
+    background-image: radial-gradient(white, darkkhaki);
+    height: 100%;
+}
+
+#content {
+    padding-top: 1%;
+}
+
+.card {
+    margin-bottom: 2%;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+footer {
+    background-color: beige;
+    font-weight: bolder;
+    /* position: fixed; */
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}

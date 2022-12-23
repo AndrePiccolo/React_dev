@@ -1,0 +1,152 @@
+[
+    {
+        "name": "Bella",
+        "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/golden-retriever-royalty-free-image-506756303-1560962726.jpg",
+        "breed": "Labrador",
+        "description": "Lovely and Friendly"
+    },
+    {
+        "name": "Max",
+        "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg",
+        "breed": "Labrador",
+        "description": "Lovely and Friendly"
+    },
+    {
+        "name": "Luna",
+        "image": "https://i.natgeofe.com/n/4f5aaece-3300-41a4-b2a8-ed2708a0a27c/domestic-dog_thumb_4x3.jpg",
+        "breed": "Labrador",
+        "description": "Lovely and Friendly"
+    },
+    {
+        "name": "Charlie",
+        "image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12153852/American-Eskimo-Dog-standing-in-the-grass-in-bright-sunlight-400x267.jpg",
+        "breed": "Labrador",
+        "description": "Lovely and Friendly"
+    },
+    {
+        "name": "Lucy",
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-08/220805-border-collie-play-mn-1100-82d2f1.jpg",
+        "breed": "Labrador",
+        "description": "Lovely and Friendly"
+    },
+    {
+        "name": "Cooper",
+        "image": "https://www.thesprucepets.com/thmb/-XLfNuh236Qshwr61OmcXVzb_7o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/cute-teacup-dog-breeds-4587847-hero-4e1112e93c68438eb0e22f505f739b74.jpg",
+        "breed": "Labrador",
+        "description": "Lovely and Friendly"
+    },
+    {
+        "name": "Daisy",
+        "image": "https://cdn.pixabay.com/photo/2017/09/25/13/12/puppy-2785074__340.jpg",
+        "breed": "Labrador",
+        "description": "Lovely and Friendly"
+    },
+    {
+        "name": "Milo",
+        "image": "https://thumbs.dreamstime.com/b/beautiful-happy-reddish-havanese-puppy-dog-sitting-frontal-looking-camera-isolated-white-background-46868560.jpg",
+        "breed": "Labrador",
+        "description": "Lovely and Friendly"
+    },
+    {
+        "name": "Zoe",
+        "image": "https://www.cdc.gov/healthypets/images/pets/cute-dog-headshot.jpg",
+        "breed": "Labrador",
+        "description": "Lovely and Friendly"
+    },
+    {
+        "name": "Rocky",
+        "image": "https://www.humanesociety.org/sites/default/files/styles/1240x698/public/2022-10/dog-583007.jpg",
+        "breed": "Labrador",
+        "description": "Lovely and Friendly"
+    },
+    {
+        "name": "Nala",
+        "image": "https://dynaimage.cdn.cnn.com/cnn/c_fill,g_auto,w_1200,h_675,ar_16:9/https%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F201030094143-stock-rhodesian-ridgeback.jpg",
+        "breed": "Labrador",
+        "description": "Lovely and Friendly"
+    },
+    {
+        "name": "Lily",
+        "image": "https://post.healthline.com/wp-content/uploads/2020/08/3180-Pug_green_grass-1200x628-FACEBOOK-1200x628.jpg",
+        "breed": "Labrador",
+        "description": "Lovely and Friendly"
+    },
+    {
+        "name": "Kona",
+        "image": "https://th-thumbnailer.cdn-si-edu.com/SdKYWifCKfE2g8O-po_SO99hQ-Y=/1000x750/filters:no_upscale():focal(3126x2084:3127x2085)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ec/e6/ece69181-708a-496e-b2b7-eaf7078b99e0/gettyimages-1310156391.jpg",
+        "breed": "Labrador",
+        "description": "Lovely and Friendly"
+    },
+    {
+        "name": "Piper",
+        "image": "https://www.thestatesman.com/wp-content/uploads/2022/07/AmericanBullysobakabarobaka-4ce0d4dc0e144dccadb5159b222e275e-e1657808052501.jpg",
+        "breed": "Labrador",
+        "description": "Lovely and Friendly"
+    },
+    {
+        "name": "Mia",
+        "image": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/02/322868_1100-800x825.jpg",
+        "breed": "Labrador",
+        "description": "Lovely and Friendly"
+    },
+    {
+        "name": "Bailey",
+        "image": "https://www.princeton.edu/sites/default/files/styles/half_2x/public/images/2022/02/KOA_Nassau_2697x1517.jpg",
+        "breed": "Labrador",
+        "description": "Lovely and Friendly"
+    },
+    {
+        "name": "Winnie",
+        "image": "https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HB4AT3D3IMI6TMPTWIZ74WAR54.jpg",
+        "breed": "Labrador",
+        "description": "Lovely and Friendly"
+    },
+    {
+        "name": "Riley",
+        "image": "https://www.rd.com/wp-content/uploads/2022/01/GettyImages-912084898-e1641834261695.jpg",
+        "breed": "Labrador",
+        "description": "Lovely and Friendly"
+    },
+    {
+        "name": "Coco",
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-08/220805-border-collie-play-mn-1100-82d2f1.jpg",
+        "breed": "Labrador",
+        "description": "Lovely and Friendly"
+    },
+    {
+        "name": "Molly",
+        "image": "https://static01.nyt.com/images/2022/05/10/science/28DOGS-BEHAVIOR1/28DOGS-BEHAVIOR1-mediumSquareAt3X-v2.jpg",
+        "breed": "Labrador",
+        "description": "Lovely and Friendly"
+    },
+    {
+        "name": "Ivy",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/220818142713-dogs-tears-emotions-wellness-stock.jpg",
+        "breed": "Labrador",
+        "description": "Lovely and Friendly"
+    },
+    {
+        "name": "Stella",
+        "image": "https://ggsc.s3.amazonaws.com/images/uploads/The_Science-Backed_Benefits_of_Being_a_Dog_Owner.jpg",
+        "breed": "Labrador",
+        "description": "Lovely and Friendly"
+    },
+    {
+        "name": "Willow",
+        "image": "https://img.freepik.com/free-photo/group-portrait-adorable-puppies_53876-64778.jpg",
+        "breed": "Labrador",
+        "description": "Lovely and Friendly"
+    },
+    {
+        "name": "Gracie",
+        "image": "https://ichef.bbci.co.uk/news/976/cpsprodpb/17638/production/_124800859_gettyimages-817514614.jpg",
+        "breed": "Labrador",
+        "description": "Lovely and Friendly"
+    },
+    {
+        "name": "Lola",
+        "image": "https://www.hartz.com/wp-content/uploads/2022/04/small-dog-owners-1.jpg",
+        "breed": "Labrador",
+        "description": "Lovely and Friendly"
+    }
+]
