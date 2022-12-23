@@ -5,7 +5,7 @@ const Footer = () => {
     const [weather, setWeather] = useState("");
     const [temperature, setTemperature] = useState("");
 
-    const url = `https://api.openweathermap.org/data/2.5/weather?q=Vancouver&appid=475b041832b83a6a486d96e86bbab745&units=metric`
+    const url = `https://api.openweathermap.org/data/2.5/weather?q=Vancouver&units=metric`
 
     axios(url)
         .then((resp) => {
